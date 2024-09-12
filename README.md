@@ -1,0 +1,1 @@
+My python implementation of [A Programmer's Introduction to Mathematics](https://pimbook.org/)
